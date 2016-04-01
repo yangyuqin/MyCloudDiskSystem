@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="71619896">
+    <data-source source="LOCAL" name="WebRoot:WEB-INF:classes:hibernate.cfg.xml" uuid="1554b8e2-cb1b-4f1a-a313-6d9c55323de7">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/disk?characterEncoding=UTF8</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfd8dfc5dfc5dfde</user-password>
+      <libraries>
+        <library>
+          <url>file://$PROJECT_DIR$/WebRoot/WEB-INF/lib/xwork-core-2.2.1.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="hibernate.cfg.xml" uuid="9117718e-4ee3-4ca6-b5a8-1417d75415b4">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/disk?characterEncoding=UTF8</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfd8dfc5dfc5dfde</user-password>
+      <libraries>
+        <library>
+          <url>file://$PROJECT_DIR$/WebRoot/WEB-INF/lib/xwork-core-2.2.1.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+

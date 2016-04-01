@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="WebRoot:WEB-INF:classes:hibernate.cfg.xml" uuid="1554b8e2-cb1b-4f1a-a313-6d9c55323de7">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="hibernate.cfg.xml" uuid="9117718e-4ee3-4ca6-b5a8-1417d75415b4">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
